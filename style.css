@@ -10,7 +10,33 @@ h1 {
 
 img {
   display: block;
+  width: 900px;
   margin: auto;
-  width: 50%;
 }
 
+#navigation-links {
+  text-align: center;
+}
+
+#navigation-links a {
+  padding: 0px 10px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+
+#featured-property  p{
+  width: 800px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
