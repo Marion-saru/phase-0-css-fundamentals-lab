@@ -32,9 +32,10 @@ figcaption {
 #featured-property  p{
   width: 800px;
   text-align: center;
+  margin: 20px auto;
 }
 
-div {
+#details div {
   float: left;
   background-color: red;
   text-align: center;
